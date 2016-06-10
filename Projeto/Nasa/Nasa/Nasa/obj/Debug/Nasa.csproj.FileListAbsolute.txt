@@ -1,0 +1,35 @@
+C:\Users\Public\Documents\Nasa\Nasa\bin\Debug\Nasa.exe.config
+C:\Users\Public\Documents\Nasa\Nasa\bin\Debug\Nasa.exe
+C:\Users\Public\Documents\Nasa\Nasa\bin\Debug\Nasa.pdb
+C:\Users\Public\Documents\Nasa\Nasa\obj\Debug\Nasa.Form_mov.resources
+C:\Users\Public\Documents\Nasa\Nasa\obj\Debug\Nasa.Properties.Resources.resources
+C:\Users\Public\Documents\Nasa\Nasa\obj\Debug\Nasa.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Nasa\Nasa\obj\Debug\Nasa.exe
+C:\Users\Public\Documents\Nasa\Nasa\obj\Debug\Nasa.pdb
+W:\Users\felip\Documents\Nasa\Nasa\Nasa\bin\Debug\Nasa.exe.config
+W:\Users\felip\Documents\Nasa\Nasa\Nasa\obj\Debug\Nasa.exe
+W:\Users\felip\Documents\Nasa\Nasa\Nasa\obj\Debug\Nasa.pdb
+W:\Users\felip\Documents\Nasa\Nasa\Nasa\bin\Debug\Nasa.exe
+W:\Users\felip\Documents\Nasa\Nasa\Nasa\bin\Debug\Nasa.pdb
+W:\Users\felip\Documents\Nasa\Nasa\Nasa\obj\Debug\Nasa.csprojResolveAssemblyReference.cache
+W:\Users\felip\Documents\Nasa\Nasa\Nasa\obj\Debug\Nasa.Properties.Resources.resources
+W:\Users\felip\Documents\Nasa\Nasa\Nasa\obj\Debug\Nasa.csproj.GenerateResource.Cache
+W:\Users\felip\Documents\Nasa\Nasa\Nasa\obj\Debug\Nasa.Janelas.FormMov.resources
+C:\Users\Educação PMSS\Documents\Nasa\Nasa\Nasa\bin\Debug\Nasa.exe.config
+C:\Users\Educação PMSS\Documents\Nasa\Nasa\Nasa\obj\Debug\Nasa.exe
+C:\Users\Educação PMSS\Documents\Nasa\Nasa\Nasa\obj\Debug\Nasa.pdb
+C:\Users\Educação PMSS\Documents\Nasa\Nasa\Nasa\bin\Debug\Nasa.exe
+C:\Users\Educação PMSS\Documents\Nasa\Nasa\Nasa\bin\Debug\Nasa.pdb
+C:\Users\Educação PMSS\Documents\Nasa\Nasa\Nasa\obj\Debug\Nasa.csprojResolveAssemblyReference.cache
+C:\Users\Educação PMSS\Documents\Nasa\Nasa\Nasa\obj\Debug\Nasa.Janelas.FormMov.resources
+C:\Users\Educação PMSS\Documents\Nasa\Nasa\Nasa\obj\Debug\Nasa.Properties.Resources.resources
+C:\Users\Educação PMSS\Documents\Nasa\Nasa\Nasa\obj\Debug\Nasa.csproj.GenerateResource.Cache
+C:\Users\Educação PMSS\Documents\Organizar\Projeto\Nasa\Nasa\Nasa\bin\Debug\Nasa.exe.config
+C:\Users\Educação PMSS\Documents\Organizar\Projeto\Nasa\Nasa\Nasa\obj\Debug\Nasa.exe
+C:\Users\Educação PMSS\Documents\Organizar\Projeto\Nasa\Nasa\Nasa\obj\Debug\Nasa.pdb
+C:\Users\Educação PMSS\Documents\Organizar\Projeto\Nasa\Nasa\Nasa\bin\Debug\Nasa.exe
+C:\Users\Educação PMSS\Documents\Organizar\Projeto\Nasa\Nasa\Nasa\bin\Debug\Nasa.pdb
+C:\Users\Educação PMSS\Documents\Organizar\Projeto\Nasa\Nasa\Nasa\obj\Debug\Nasa.csprojResolveAssemblyReference.cache
+C:\Users\Educação PMSS\Documents\Organizar\Projeto\Nasa\Nasa\Nasa\obj\Debug\Nasa.Janelas.FormMov.resources
+C:\Users\Educação PMSS\Documents\Organizar\Projeto\Nasa\Nasa\Nasa\obj\Debug\Nasa.Properties.Resources.resources
+C:\Users\Educação PMSS\Documents\Organizar\Projeto\Nasa\Nasa\Nasa\obj\Debug\Nasa.csproj.GenerateResource.Cache
